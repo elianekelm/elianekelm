@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**elianekelm/elianekelm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my repository!  👋
+-----------------------------------------------------------------------------------
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I’m a Data Scientist
+- 🌱 I’m currently learning IBM Data Science Professional Certificate at Coursera
+- 📫 How to reach me: linkedin.com/in/eliane-kelm-8165a41ba
+- ⚡ Fun fact: I have two kids who play guitar and I already play minecraft 🤪
+
+
+
+### [💻 Technologies & Tools](#-languages-)
+[<img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">](https://www.python.org/)
+[<img src = "https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">](https://numpy.org/)
+[<img src = "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">](https://pandas.pydata.org/)
